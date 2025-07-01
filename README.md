@@ -1,4 +1,4 @@
-# 🧠 NLP for Customer Support Automation
+#  NLP for Customer Support Automation
 
 This project applies **Natural Language Processing (NLP)** and **Machine Learning** techniques to categorize customer 
 support tickets and enhance response automation. The main goal is to improve support efficiency, reduce resolution 
@@ -6,7 +6,7 @@ time, and boost customer satisfaction.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Customer support teams receive thousands of tickets daily. Manual triage leads to delays and inefficiencies. 
 This project leverages **text classification** using NLP and ML models to:
@@ -17,7 +17,7 @@ This project leverages **text classification** using NLP and ML models to:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 -  Develop an NLP model for automated ticket classification.
 -  Categorize customer inquiries into meaningful topics.
@@ -26,16 +26,16 @@ This project leverages **text classification** using NLP and ML models to:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python** (Pandas, NumPy)
 - **Scikit-learn**
 - **TfidfVectorizer**
 - **Random Forest**, **Logistic Regression**, **SVM**, **Naive Bayes**
-- **Jupyter Notebook** or any Python IDE
+- **Jupyter Notebook** 
 
 ---
-## 👨‍💻 Author
+##  Author
 
 **Jagadeeswari Suvvari**  
 Student @ RGUKT Srikakulam  
