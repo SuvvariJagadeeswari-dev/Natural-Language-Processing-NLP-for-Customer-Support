@@ -1,25 +1,25 @@
-# Natural Language Processing (NLP) for Customer Support
+# 🧠 NLP for Customer Support Ticket Classification
 
-A company wants to enhance its customer support
-by implementing natural language processing (NLP) techniques to
-automate responses and categorize customer inquiries. The goal is to
-improve response time, efficiency, and overall customer satisfaction.
-# Objectives
-* Develop an NLP model for automated customer support.
-* Categorize customer inquiries into relevant topics.
-* Provide insights into common customer concerns.
+This project applies Natural Language Processing (NLP) and machine learning techniques to automate and enhance customer support operations. It classifies customer support tickets based on textual descriptions and structured metadata to predict customer satisfaction ratings and uncover common concerns.
 
-# Key Tasks
-* Collect and preprocess customer support ticket data.
+---
 
-* Implement NLP techniques for text classification.
+## 🚀 Project Overview
 
-* Evaluate model performance and interpret feature importance.
+**Problem Statement**  
+A company wants to enhance its customer support by implementing NLP techniques to automate ticket classification and understand customer concerns. The goal is to reduce manual workload, improve response times, and increase customer satisfaction.
 
-* Provide recommendations for automated response systems.
-# Goals
-*Achieve a text classification accuracy of at least 85%.
-*Categorize customer inquiries into relevant topics with high
-precision.
-*Reduce response time for common inquiries by 20%.
+**Objectives**
+- Build an NLP-based model to classify support tickets.
+- Predict customer satisfaction rating (1 to 5).
+- Identify patterns in common customer issues.
+- Compare different machine learning models.
 
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/nlp-customer-support.git
+   cd nlp-customer-support
