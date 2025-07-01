@@ -1,25 +1,43 @@
-# 🧠 NLP for Customer Support Ticket Classification
+# 🧠 NLP for Customer Support Automation
 
-This project applies Natural Language Processing (NLP) and machine learning techniques to automate and enhance customer support operations. It classifies customer support tickets based on textual descriptions and structured metadata to predict customer satisfaction ratings and uncover common concerns.
-
----
-
-## 🚀 Project Overview
-
-**Problem Statement**  
-A company wants to enhance its customer support by implementing NLP techniques to automate ticket classification and understand customer concerns. The goal is to reduce manual workload, improve response times, and increase customer satisfaction.
-
-**Objectives**
-- Build an NLP-based model to classify support tickets.
-- Predict customer satisfaction rating (1 to 5).
-- Identify patterns in common customer issues.
-- Compare different machine learning models.
+This project applies **Natural Language Processing (NLP)** and **Machine Learning** techniques to categorize customer 
+support tickets and enhance response automation. The main goal is to improve support efficiency, reduce resolution 
+time, and boost customer satisfaction.
 
 ---
 
-## ⚙️ Setup Instructions
+## 📌 Project Overview
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/nlp-customer-support.git
-   cd nlp-customer-support
+Customer support teams receive thousands of tickets daily. Manual triage leads to delays and inefficiencies. 
+This project leverages **text classification** using NLP and ML models to:
+
+- Automatically classify support tickets into categories.
+- Understand common issues using ticket descriptions.
+- Help build an automated response system.
+
+---
+
+## 🎯 Objectives
+
+-  Develop an NLP model for automated ticket classification.
+-  Categorize customer inquiries into meaningful topics.
+-  Achieve classification accuracy of **at least 85%**.
+-  Reduce response time for frequent issues by **20%**.
+
+---
+
+## 🧰 Tech Stack
+
+- **Python** (Pandas, NumPy)
+- **Scikit-learn**
+- **TfidfVectorizer**
+- **Random Forest**, **Logistic Regression**, **SVM**, **Naive Bayes**
+- **Jupyter Notebook** or any Python IDE
+
+---
+## 👨‍💻 Author
+
+**Jagadeeswari Suvvari**  
+Student @ RGUKT Srikakulam  
+Aspiring to automate the future with ML & NLP 🚀
+
